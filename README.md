@@ -4,6 +4,10 @@
         <meta charset="utf-8">
         <title>glowna</title>
         <style>
+            body{
+            background-color: grey;
+            text-align: center;
+            }
             nav{
                 background-color:rgb(90, 199, 36);
                        text-align:center;

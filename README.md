@@ -1,4 +1,5 @@
-witas bloguje
+#witas bloguje
+
 <!DOCTYPE html>
 <html>
     <head>

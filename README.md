@@ -30,7 +30,7 @@
     <nav>
         <a class="v">glówna</a>
         <a href=" https://witas-w.github.io/Blog/." class="v">blog</a>
-        <a href="https://witas-w.github.io/witas/#blog
+        <a href="https://witas-w.github.io/witas/
 " class="v">Wakacje 2019</a>
     </nav>
      <p><strong>Obecnie jestem na wakacjach wiec blog na tej stronie nie dziala</strong></p>

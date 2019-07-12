@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html><html>
     <head>
         <meta charset="utf-8">
         <title>glowna</title>
@@ -30,7 +29,7 @@
     <body>
     <nav>
         <a class="v">glówna</a>
-        <a href="" class="v">blog</a>
+        <a href=" https://witas-w.github.io/Blog/." class="v">blog</a>
         <a href="https://witas-w.github.io/witas/#blog
 " class="v">Wakacje 2019</a>
     </nav>

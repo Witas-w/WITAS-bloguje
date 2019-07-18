@@ -45,6 +45,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wroc%C5%82aw_Collage.png/614px-Wroc%C5%82aw_Collage.png">
 <h3>Tramwaje</h3>
 <p>We Wrocławiu można spotkać tramwaje typu Moderus beta, PESA Twist, Skoda 16t, Skoda 19t, Protram 205 WrAs, Protram 204 WrAs,Protram 105 nwr i Konstal 105 na. Jedynym w 100% niskopodłogowym tramwajem jest PESA.
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pesa_Twist_Wroclaw_01.JPG/640px-Pesa_Twist_Wroclaw_01.JPG">
     </body>
 </html>

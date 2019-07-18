@@ -78,7 +78,7 @@
     
     </table>
 
-<img src="https://commons.wikimedia.org/wiki/File:Bazylika_%C5%9Bw._El%C5%BCbiety_W%C4%99gierskiej_we_Wroc%C5%82awiu.jpg#/media/Plik:Bazylika_św._Elżbiety_Węgierskiej_we_Wrocławiu.jpg">
+<img src="https://commons.wikimedia.org/wiki/File:Wroc%C5%82aw_-_Plac_Grunwaldzki_zim%C4%85.JPG#/media/Plik:Wrocław_-_Plac_Grunwaldzki_zimą.JPG">
 
  </body>
 </html>

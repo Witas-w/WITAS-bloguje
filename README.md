@@ -80,5 +80,21 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wroc%C5%82aw_-_Plac_Grunwaldzki_zim%C4%85.JPG/640px-Wroc%C5%82aw_-_Plac_Grunwaldzki_zim%C4%85.JPG">
 
+<h3>Atrakcje</h3>
+<ul>
+    <li>Most Grunwaldzki</li>
+    <li>Hala Stulecia</li>
+    <li>Iglica</li>
+    <li>Stadion olimpijski</li>
+    <li>Stadion Miejski</li>
+    <li>Most Rędziński</li>
+    <li>Sky Tower</li>
+    <li>Dworzec Główny</li>
+    <li>Wyspy</li>
+    <li>Most Tumski</li>
+    <li>Katedra Jana Chrzciciela</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2017_Sky_Tower_we_Wroc%C5%82awiu.jpg/800px-2017_Sky_Tower_we_Wroc%C5%82awiu.jpg">
+    
  </body>
 </html>

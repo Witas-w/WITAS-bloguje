@@ -48,6 +48,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pesa_Twist_Wroclaw_01.JPG/640px-Pesa_Twist_Wroclaw_01.JPG">
  <h3>O Odrze</h3>
 <p> rzeka w Europie Środkowej, w zlewisku Morza Bałtyckiego, na terenie Czech, Polski i Niemiec. Pod względem całkowitej długości jest drugą (po Wiśle) rzeką Polski. Biorąc pod uwagę tylko jej część w granicach Polski, jest trzecią rzeką pod względem długości (po jej dopływie Warcie). </p>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Odra_ko%C5%82o_Urazu_2.jpg/640px-Odra_ko%C5%82o_Urazu_2.jpg">
  </body>
 </html>

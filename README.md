@@ -50,13 +50,13 @@
 " class="v">Wakacje 2019</a>
     </nav>
      <h3 id="ow"> O Wrocławiu</h3>
-<p>miasto na prawach powiatu w południowo-zachodniej Polsce, siedziba władz województwa dolnośląskiego i powiatu wrocławskiego. Położone w Europie Środkowej, na Nizinie Śląskiej, nad Odrą i czterema jej dopływami. Jest historyczną stolicą Dolnego Śląska, a także całego Śląska.</p>
+<p><strong>Wrocław</strong>  to miasto na prawach powiatu w południowo-zachodniej Polsce, siedziba władz województwa dolnośląskiego i powiatu wrocławskiego. Położone w Europie Środkowej, na Nizinie Śląskiej, nad Odrą i czterema jej dopływami. Jest historyczną stolicą Dolnego Śląska, a także całego Śląska.</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wroc%C5%82aw_Collage.png/614px-Wroc%C5%82aw_Collage.png">
 <h3 id="t">Tramwaje</h3>
 <p>We Wrocławiu można spotkać tramwaje typu Moderus beta, PESA Twist, Skoda 16t, Skoda 19t, Protram 205 WrAs, Protram 204 WrAs,Protram 105 nwr i Konstal 105 na. Jedynym w 100% niskopodłogowym tramwajem jest PESA Twist.</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pesa_Twist_Wroclaw_01.JPG/640px-Pesa_Twist_Wroclaw_01.JPG">
  <h3 id="od">O Odrze</h3>
-<p> rzeka w Europie Środkowej, w zlewisku Morza Bałtyckiego, na terenie Czech, Polski i Niemiec. Pod względem całkowitej długości jest drugą (po Wiśle) rzeką Polski. Biorąc pod uwagę tylko jej część w granicach Polski, jest trzecią rzeką pod względem długości (po jej dopływie Warcie). </p>
+<p> Rzeka w Europie Środkowej, w zlewisku Morza Bałtyckiego, na terenie Czech, Polski i Niemiec. Pod względem całkowitej długości jest drugą (po Wiśle) rzeką Polski. Biorąc pod uwagę tylko jej część w granicach Polski, jest trzecią rzeką pod względem długości (po jej dopływie Warcie). </p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Odra_ko%C5%82o_Urazu_2.jpg/640px-Odra_ko%C5%82o_Urazu_2.jpg">
 
 <h3>Statystyki</h3>

@@ -32,13 +32,13 @@
                 background:rgb(115, 140, 105);
             }
             #ow{
-            border-top:1px solid yellow;
+            border-top:2px solid red;
             } 
             #t{
-            border-top:1px solid yellow;
+            border-top:2px solid red;
             }
             #od{
-            border-top:1px solid yellow;
+            border-top:2px solid red;
             } 
         </style>
     </head>

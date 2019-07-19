@@ -109,7 +109,7 @@
     <li>Most Tumski</li>
     <li>Katedra Jana Chrzciciela</li>
     </ul>
-    <img src=" ">
+    <img src=" https://upload.wikimedia.org/wikipedia/commons/c/c6/2017_Sky_Tower_we_Wroc%C5%82awiu.jpg">
     
  </body>
 </html>

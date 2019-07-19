@@ -41,6 +41,9 @@
             #od{
             border-top:2px solid red;
             } 
+           . tab{
+           Background-color: black;
+          } 
         </style>
     </head>
     <body>
@@ -61,7 +64,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Odra_ko%C5%82o_Urazu_2.jpg/640px-Odra_ko%C5%82o_Urazu_2.jpg">
 
 <h3>Statystyki</h3>
-<table>
+< class="tab" table>
     <thead>
         <tr>
             <th>nazwa</th>

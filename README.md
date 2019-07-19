@@ -5,7 +5,8 @@
         <title>glowna</title>
         <style>
             body {
-            background-color: rgb(225, 230, 212);
+            background-color: grey;
+            Color: white;
              margin: none;
              text-align: center;
              font-family: cursive;

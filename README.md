@@ -48,6 +48,9 @@
           border-bottom: 3px solid red;
           font-family: sans-serif;
          } 
+         #atr{
+         border-top: 2px solid red;
+        } 
         </style>
     </head>
     <body>
@@ -89,7 +92,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wroc%C5%82aw_-_Plac_Grunwaldzki_zim%C4%85.JPG/640px-Wroc%C5%82aw_-_Plac_Grunwaldzki_zim%C4%85.JPG">
 
-<h3>Atrakcje</h3>
+<h3 id="atr" >Atrakcje</h3>
 <ul>
     <li>Most Grunwaldzki</li>
     <li>Hala Stulecia</li>

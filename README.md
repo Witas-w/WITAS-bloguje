@@ -45,7 +45,7 @@
            color: black;
           } 
           #wmm{
-          border-bottom: 2px solid red;
+          border-bottom: 3px solid red;
           font-family: sans-serif;
          } 
         </style>

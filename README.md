@@ -51,6 +51,9 @@
          #atr{
          border-top: 2px solid red;
         } 
+        #st{
+        border-top: 2px solid red;
+       } 
         </style>
     </head>
     <body>
@@ -71,7 +74,7 @@
 <p> Rzeka w Europie Środkowej, w zlewisku Morza Bałtyckiego, na terenie Czech, Polski i Niemiec. Pod względem całkowitej długości jest drugą (po Wiśle) rzeką Polski. Biorąc pod uwagę tylko jej część w granicach Polski, jest trzecią rzeką pod względem długości (po jej dopływie Warcie). </p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Odra_ko%C5%82o_Urazu_2.jpg/640px-Odra_ko%C5%82o_Urazu_2.jpg">
 
-<h3>Statystyki</h3>
+<h3 id="st" >Statystyki</h3>
 <table>
     <thead>
         <tr>

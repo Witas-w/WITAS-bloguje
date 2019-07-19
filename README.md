@@ -32,9 +32,9 @@
             a:active{
                 background:rgb(115, 140, 105);
             }
-            #ow{
-            border-top:2px solid red;
-            } 
+            
+            
+
             #t{
             border-top:2px solid red;
             }
@@ -44,6 +44,10 @@
            table {
            color: black;
           } 
+          #wmm{
+          border-bottom: 2px solid red;
+          font-family: sans-serif;
+         } 
         </style>
     </head>
     <body>
@@ -53,6 +57,7 @@
         <a href="https://witas-w.github.io/witas/
 " class="v">Wakacje 2019</a>
     </nav>
+    <h2 id="wmm" >Wrocław moje miasto</h2>
      <h3 id="ow"> O Wrocławiu</h3>
 <p><strong>Wrocław</strong>  to miasto na prawach powiatu w południowo-zachodniej Polsce, siedziba władz województwa dolnośląskiego i powiatu wrocławskiego. Położone w Europie Środkowej, na Nizinie Śląskiej, nad Odrą i czterema jej dopływami. Jest historyczną stolicą Dolnego Śląska, a także całego Śląska.</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wroc%C5%82aw_Collage.png/614px-Wroc%C5%82aw_Collage.png">

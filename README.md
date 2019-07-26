@@ -112,7 +112,7 @@
     <li>Katedra Jana Chrzciciela</li>
     </ul>
     <img src=" https://upload.wikimedia.org/wikipedia/commons/c/c6/2017_Sky_Tower_we_Wroc%C5%82awiu.jpg">
-   <a href="wmm"><button type="Button">do góry</button></a>
+   <a href="#wmm"><button type="Button">do góry</button></a>
 
  </body>
 </html>
